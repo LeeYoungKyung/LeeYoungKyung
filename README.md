@@ -4,7 +4,8 @@
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-bf2e24?style=flat-square&logo=React&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-fce85d?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Ja
+  vaScript-fce85d?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/tailwind-32a852?style=flat-square&logo=tailwindcss&logoColor=white"/>&nbsp;
 <br>
   <img src="https://img.shields.io/badge/HTML-ed813e?style=flat-square&logo=Html5&logoColor=white"/>&nbsp;
