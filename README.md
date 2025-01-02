@@ -25,10 +25,7 @@
   <a href="https://velog.io/@yklee1040/posts">
     <img src="https://img.shields.io/badge/velog-2b68a7?style=plastic&logo=velog&logoColor=white"/>
   </a>
-</p><p align="notion">
-  <a href="https://www.notion.so/LeeYoungKyung-bcf4658b19d049269b5ed67df3fdce64">
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  </a>
+
 </p>
 </h3>
 
